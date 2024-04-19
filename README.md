@@ -1,20 +1,21 @@
 # TechTantrik
 TechTantrik get daily Tech Updates here , this website made by using Bootstrap FrameWork which is connect to mySqlLi data base 
 
+![Tech Tantrik - All about Technology - Google Chrome 4_19_2024 4_50_17 PM](https://github.com/hi-abhay2004/TechTantrik/assets/133881460/bc219e84-2cb7-4d5f-a9dc-abebd1c07a62)
 
-![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_11 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/abb78436-8004-4479-b82e-0cc1ccd69168)
 
 
 # AboutUs Page view
 
 
-![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_38 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/37471390-4bb5-4dd4-8405-a76ffc2d9d46)
+![Tech Tantrik - All about Technology - Google Chrome 4_19_2024 4_50_48 PM](https://github.com/hi-abhay2004/TechTantrik/assets/133881460/928ac072-e411-4405-966b-d2338bed3c6d)
+
 
 
 # ContactUs Page view
 
 
-![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_47 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/8616ac8a-3c4a-4330-95b8-aa651b2842e2)
+![Tech Tantrik - All about Technology - Google Chrome 4_19_2024 4_50_57 PM](https://github.com/hi-abhay2004/TechTantrik/assets/133881460/4dceb76c-2560-490b-a719-04a549dc0d72)
 
 
 
