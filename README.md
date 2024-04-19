@@ -1,12 +1,15 @@
 # TechTantrik
 TechTantrik get daily Tech Updates here , this website made by using Bootstrap FrameWork which is connect to mySqlLi data base 
-![Temp Mail - Disposable Temporary Email - Google Chrome 4_19_2024 4_30_49 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/badd39c3-8ac4-4f3e-aa50-47680f1944ee)
+![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_11 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/abb78436-8004-4479-b82e-0cc1ccd69168)
+
 
 AboutUs Page view
-![Temp Mail - Disposable Temporary Email - Google Chrome 4_19_2024 4_31_47 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/f2c19923-14cd-49ec-9cfb-6b2ab6c2c223)
+![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_38 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/37471390-4bb5-4dd4-8405-a76ffc2d9d46)
+
 
 ContactUs Page view
-![Temp Mail - Disposable Temporary Email - Google Chrome 4_19_2024 4_31_57 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/44b95ff8-db5f-4eab-92b0-aec66fa9a056)
+![Tech Blogger - All about Technology - Google Chrome 4_19_2024 4_36_47 PM](https://github.com/hi-abhay2004/tech-blogger/assets/133881460/8616ac8a-3c4a-4330-95b8-aa651b2842e2)
+
 
 
 
